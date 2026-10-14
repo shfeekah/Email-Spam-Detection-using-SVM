@@ -87,7 +87,7 @@ This project uses the **SMS Spam Collection Dataset**, which contains labeled SM
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Email-Spam-Detection-using-SVM.git
+git clone https://github.com/SHFEEKAH/Email-Spam-Detection-using-SVM.git
 ```
 
 Move into the project folder:
